@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "013 Animator States", "013 Animator States.csproj", "{F9BCCD4E-370D-350C-B3D7-B4BDAF2E4AFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9BCCD4E-370D-350C-B3D7-B4BDAF2E4AFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9BCCD4E-370D-350C-B3D7-B4BDAF2E4AFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9BCCD4E-370D-350C-B3D7-B4BDAF2E4AFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9BCCD4E-370D-350C-B3D7-B4BDAF2E4AFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

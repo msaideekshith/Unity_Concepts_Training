@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/13 UI Slider.unity
+  isLoaded: 1
+  isActive: 1

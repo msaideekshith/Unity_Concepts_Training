@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "021 Region Capture", "021 Region Capture.csproj", "{CFB239D9-6508-71C4-4535-8880F365D19B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "021 Region Capture.Editor", "021 Region Capture.Editor.csproj", "{EBBCB300-A560-A918-CAFC-F286226F8372}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFB239D9-6508-71C4-4535-8880F365D19B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFB239D9-6508-71C4-4535-8880F365D19B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFB239D9-6508-71C4-4535-8880F365D19B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFB239D9-6508-71C4-4535-8880F365D19B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBBCB300-A560-A918-CAFC-F286226F8372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBBCB300-A560-A918-CAFC-F286226F8372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBBCB300-A560-A918-CAFC-F286226F8372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBBCB300-A560-A918-CAFC-F286226F8372}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

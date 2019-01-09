@@ -1,0 +1,22 @@
+Download the Projet from 'https://github.com/googlevr/gvr-unity-sdk'
+Open New Scene
+		Convert your platform to Android (as we will deploy in android platform)
+		In 'XR settings', enable Virtual Reality Supported
+			add 'Cardboard' SDK and remove any extra SDK
+		search 'GvrEditorEmulator', attach this in Hierarchy window
+		place 'GvrPointerPhysicsRaycaster' script in Camera
+		Search 'GvrReticlePointer' prefab and place it as a child of camera,
+		make sure the 'GvrReticlePointer' is at 0,0,0 position w.r.t., the camera.
+		place 'GvrEventSystem' prefab in hierarchy
+		this should create a centre of screen pointer when we enter play mode
+		changing color of material in 'GvrReticlePointer' changes pointer color while in play mode
+		On a body visible to the camera, add a new component called 'Event Trigger'
+		On returning to the play mode and pointing to the object, you should see the point become a small
+		expanding circle
+		pointing to something and making a function run is called as - 'gaze inputs' of VR
+		OnPointerEnter, OnPointerExit, etc functions are available for VR Event System
+
+		For creating a functionality, click on 'Add New Event Type' in 'Event Trigger'
+		component and select function from list
+		Test the functionality
+

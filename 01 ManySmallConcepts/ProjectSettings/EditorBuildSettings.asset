@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/00 MainList.unity
+    guid: fa07dcdecdfdf1243a2ef119faeb1f59
+  - enabled: 1
+    path: Assets/Scenes/01 DestroyVSDisable (destroy).unity
+    guid: bd696a3a060ae1f4a9e7807cc6ca2f19
+  - enabled: 1
+    path: Assets/Scenes/02 DestroyVSDisable (disable).unity
+    guid: e2df39a4d59a2fc4ebf84dc74844f392
+  - enabled: 1
+    path: Assets/Scenes/03 DisableCompVSDisableObj (comp).unity
+    guid: 81bf2c1f3fa10e44a9e22a477c73f33b
+  - enabled: 1
+    path: Assets/Scenes/04 DisableCompVSDisableObj (Obj).unity
+    guid: dadb9e16b5e642c4ea07fa96bd1642a1
+  - enabled: 1
+    path: Assets/Scenes/05 Button States.unity
+    guid: f6f7579e184e5594cbe80ec460ab02b1
+  - enabled: 1
+    path: Assets/Scenes/06 InputManager.unity
+    guid: f8f48338e5b7570489aa7bec67089c5b
+  - enabled: 1
+    path: Assets/Scenes/07 TranslateVSPosition (Translate).unity
+    guid: 2d9324f70c0d696498569157501bb1a4
+  - enabled: 1
+    path: Assets/Scenes/08 TranslateVSPosition (Position).unity
+    guid: 95e7ad3d69ebb9348b004a5a341f59f2
+  - enabled: 1
+    path: Assets/Scenes/09 MathfLerp.unity
+    guid: 4956001d0c510134080a73d91b2bec4f
+  - enabled: 1
+    path: Assets/Scenes/10 GetKey Understanding.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/11 Quaternions.unity
+    guid: f813fb2e9b7342843ad43e9a1f80d3df
+  m_configObjects: {}
